@@ -33,4 +33,17 @@ The technologies used in my thesis project were self-taught and not covered in u
 - React Router: `npm install react-router-dom`
 - Axios: `npm install axios`
 
-### Screenshots
+## Screenshots
+
+### Home Page:
+![Home Page Screenshot](https://github.com/doriana2001/TripBooker/blob/main/screenshots/homepage.png)
+
+### Filtered Results:
+![Filtered Results Screenshot](path/to/filtered_results_screenshot.png)
+
+### Image Gallery:
+![Image Gallery Screenshot](path/to/image_gallery_screenshot.png)
+
+### Reservation:
+![Reservation Screenshot](path/to/reservation_screenshot.png)
+
