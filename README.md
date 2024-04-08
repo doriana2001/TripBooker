@@ -39,11 +39,11 @@ The technologies used in my thesis project were self-taught and not covered in u
 ![Home Page Screenshot](https://github.com/doriana2001/TripBooker/blob/main/screenshots/homepage.png)
 
 ### Filtered Results:
-![Filtered Results Screenshot](path/to/filtered_results_screenshot.png)
+![Filtered Results Screenshot](https://github.com/doriana2001/TripBooker/blob/main/screenshots/hotel_browsing.png)
 
 ### Image Gallery:
-![Image Gallery Screenshot](path/to/image_gallery_screenshot.png)
+![Image Gallery Screenshot](https://github.com/doriana2001/TripBooker/blob/main/screenshots/image_gallery.png)
 
 ### Reservation:
-![Reservation Screenshot](path/to/reservation_screenshot.png)
+![Reservation Screenshot](https://github.com/doriana2001/TripBooker/blob/main/screenshots/hotel_reservation.png)
 
