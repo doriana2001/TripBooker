@@ -7,7 +7,7 @@ The aim is to create a user-friendly platform where users can effortlessly searc
 
 ## Technologies
 
-The technologies used in my thesis project were self-taught and not covered in university courses. The main technologies I studied to develop the web application for the tourism domain are React.js, Node.js, and MongoDB. React.js is an open-source JavaScript library used for building interactive and reusable user interfaces. It provides an efficient and declarative model for creating UI components that can dynamically update based on changes in the application's state. 
+The main technologies I studied to develop the web application for the tourism domain are React.js, Node.js, and MongoDB. React.js is an open-source JavaScript library used for building interactive and reusable user interfaces. It provides an efficient and declarative model for creating UI components that can dynamically update based on changes in the application's state. 
 
 ## Installation Steps:
 
